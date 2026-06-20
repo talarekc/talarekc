@@ -4,9 +4,7 @@ Infrastructure Analyst with a B.S. in Computer Science and an M.S. in Cybersecur
 
 I am currently focused on building the technical skills required to become a Cloud Security Engineer through hands-on labs, security automation projects, cloud security research, and industry certifications.
 
-## Career Goal
-
-Become a Cloud Security Engineer specializing in:
+## Areas of Interest
 
 - Microsoft Azure
 - Cloud Security
